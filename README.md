@@ -29,17 +29,6 @@ Version details are present in requirements.txt
 * Failure Case <br>
 ![test9_res](https://user-images.githubusercontent.com/82945846/204343034-d9407109-585c-4b07-ab11-4a72b1d9c900.png)
 
-## Team Information
-
-Team Name - Flood Fill <br>
-Team No. - 11 <br>
-
-Team Members: <br>
-Prashant Gupta (2020102049) <br>
-Prasoon Garg (2020102049) <br>
-Tarun Jindal (2020102056) <br> 
-Snehit Gupta (2020112025) <br>
-
 ## Repository Structure
 * data
   * input (Contain all the test cases)
